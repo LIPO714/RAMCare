@@ -13,9 +13,9 @@ This repository contains the implementation of **RAMCare**, a three-stage framew
 
 ## Main Performance
 
-![performance_all](.\img\performance_all.png)
+![performance_all](./img/performance_all.png)
 
-![performance_missing](.\img\performance_missing.png)
+![performance_missing](./img/performance_missing.png)
 
 The following tables present the performance of **RAMCare** under four experimental settings, including *training on all dataset / complete subset and testing on all datasets* (Table 1) and *training on all dataset / complete subset and testing on missing subsets* (Table 2).
  These results serve as a supplementary analysis to the main manuscript, with several key observations:
@@ -27,3 +27,4 @@ The following tables present the performance of **RAMCare** under four experimen
 ## Note
 
 A more detailed description of the codebase, will be released upon the acceptance of the associated paper.
+
